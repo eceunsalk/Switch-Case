@@ -1,0 +1,11 @@
+/Users/ece/Desktop/C Sharp Çalışmaları/switch-case/bin/Debug/net7.0/switch-case
+/Users/ece/Desktop/C Sharp Çalışmaları/switch-case/bin/Debug/net7.0/switch-case.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/switch-case/bin/Debug/net7.0/switch-case.pdb
+/Users/ece/Desktop/C Sharp Çalışmaları/switch-case/obj/Debug/net7.0/switch-case.csproj.AssemblyReference.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/switch-case/obj/Debug/net7.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ece/Desktop/C Sharp Çalışmaları/switch-case/obj/Debug/net7.0/switch-case.AssemblyInfoInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/switch-case/obj/Debug/net7.0/switch-case.AssemblyInfo.cs
+/Users/ece/Desktop/C Sharp Çalışmaları/switch-case/obj/Debug/net7.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/switch-case/obj/Debug/net7.0/switch-case.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/switch-case/obj/Debug/net7.0/refint/switch-case.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/switch-case/obj/Debug/net7.0/switch-case.pdb
